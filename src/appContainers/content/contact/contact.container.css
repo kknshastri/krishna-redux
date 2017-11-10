@@ -1,0 +1,29 @@
+h2, h3 {
+	margin: 10px 0;
+}
+.contactStyle {
+	margin: 10px;
+	padding: 0 15px;
+	border: 1px solid green;
+	border-radius: 10px;
+	background: #adf5af;
+	color: #b63cf5;
+	display: flex;
+}
+.avatar {
+    width: 200px;
+}
+.contact-details {
+	min-width: 320px;
+	text-align: left;
+}
+.contact-details>div {
+	margin: 6px;
+}
+.contact-details label {
+	width: 100px;
+}
+.contact-action {
+	min-width: 320px;
+	text-align: center;
+}

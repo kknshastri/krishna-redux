@@ -1,0 +1,44 @@
+{
+	"allContacts": [
+		{
+			"id": 0,
+			"name": "Krishna",
+			"gender": "M",
+			"address": "Bang 8",
+			"city": "Bangalore",
+			"pinCode": "560098",
+			"contact": "+91 1234567890",
+			"email": "mymail.123@gmail.com"
+		},
+		{
+			"id": 1,
+			"name": "Brahma",
+			"gender": "M",
+			"address": "BSK 3rd STG",
+			"city": "Hyderabad",
+			"pinCode": "560085",
+			"contact": "+91 5554567890",
+			"email": "brahma996@gmail.com"
+		},
+		{
+			"id": 2,
+			"name": "Priya",
+			"gender": "F",
+			"address": "RR Nagar",
+			"city": "Pune",
+			"pinCode": "560042",
+			"contact": "+91 9898567890",
+			"email": "priya.123@gmail.com"
+		},
+		{
+			"id": 3,
+			"name": "Geethika",
+			"gender": "F",
+			"address": "BTM",
+			"city": "Bangalore",
+			"pinCode": "560052",
+			"contact": "+91 3254567890",
+			"email": "geethu992@gmail.com"
+		}
+	]
+}

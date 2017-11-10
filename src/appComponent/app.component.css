@@ -1,0 +1,41 @@
+
+.app-container {
+	height: 100vh;
+}
+
+.header-section {
+	height: 100px;
+}
+
+.body-section {
+	height: calc(100% - 150px);
+	display: flex;
+}
+
+.sidenav-section {
+	background-color: blueviolet;
+	width: 20%;
+	min-width: 400px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.content-section {
+	/* background-color: #fceaff; */
+	background-color: #c5c5c5;
+	width: 80%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.footer-section {
+	height: 50px;
+}
+
+button {
+	padding: 6px 12px;
+	margin: 10px;
+	border-radius: 6px;
+	outline: none;
+	box-shadow: 1px 1px #009e00;
+}

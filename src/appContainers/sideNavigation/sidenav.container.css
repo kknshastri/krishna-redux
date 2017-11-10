@@ -1,0 +1,42 @@
+.side-navigation {
+    text-align: center;
+}
+.side-navigation>h2 {
+    color: yellow;
+}
+
+h3, h4 {
+	margin: 10px 0;
+}
+.side-navigation .contactStyle {
+	margin: 10px;
+	padding: 0 15px;
+	border: 1px solid green;
+	border-radius: 10px;
+	background: #adf5af;
+	color: #b63cf5;
+	display: block;
+}
+.side-navigation .create-contact.avatar {
+    width: 150px;
+}
+.side-navigation .avatar {
+    width: 250px;
+}
+.contact-details {
+	/* min-width: 320px; */
+	text-align: left;
+}
+.side-navigation .contactStyle {
+	margin: 10px 30px;
+}
+.contact-details>div {
+	margin: 6px;
+}
+.contact-details label {
+	width: 100px;
+}
+.contact-action {
+	/* min-width: 320px; */
+	text-align: center;
+}

@@ -1,0 +1,30 @@
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.header {
+    background-color: #222;
+    height: 100%;
+    display: flex;
+}
+
+.logo-section {
+    width: 20%;
+    min-width: 300px;
+    text-align: center;
+}
+.app-logo {
+    height: 70px;
+    margin: 15px;
+}
+.title-section {
+    width: 80%;
+    text-align: center;
+}
+.title-section h1 {
+    color: #f34c99;
+    line-height: 100px;
+    font-family: cursive;
+    font-size: 48px;
+}
